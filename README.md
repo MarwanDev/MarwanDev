@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Ruby on Rails**
 
-- 👨‍💻 All of my projects are available at [https://marwandev.github.io/marwan-portfolio-mobile/](https://marwandev.github.io/marwan-portfolio-mobile/)
+- 👨‍💻 All of my projects are available <a href="https://marwandev.github.io/marwan-portfolio-mobile/">here</a>
 
 - 📫 How to reach me **marwaneg@aucegypt.ed**
 
