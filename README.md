@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available <a href="https://marwandev.github.io/marwan-portfolio-mobile/">here</a>
 
-- 📫 How to reach me **marwaneg@aucegypt.ed**
+- 📫 How to reach me **marwaneg@aucegypt.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
