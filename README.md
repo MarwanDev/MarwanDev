@@ -11,8 +11,8 @@ const Marwan = new Promise((resolve, reject) => {
     workingOn: 'React Projects' && 'Web 3.0 Projects',
     learningCurrently: ['Ruby on Rails', 'Next Js', 'Data Structure & Algorithms'],
     studyingAt: 'Microverse Remote Software Development Program',
-    techStack: [JavaScript, React, HTML, CSS, Python, Solidity, C++],
-    lookingFor: 'Full-stack Software Developer position' || 'Data Scientist Developer position',
+    techStack: ['JavaScript', 'React', 'HTML', 'CSS', 'Python', 'Solidity', 'C++'. 'SQL'],
+    lookingFor: 'Full-stack Software Developer position' || 'Data Scientist position',
     reachMe: 'marwaneg@aucegypt.edu',
   })
   
